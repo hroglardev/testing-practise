@@ -1,0 +1,15 @@
+{
+  "name": "testing-practise",
+  "version": "1.0.0",
+  "description": "Start practising jest unit testing",
+  "main": "caesarCipher.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
